@@ -1,0 +1,15 @@
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/model/Product.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/components/SearchInputBox.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/UI/HomeUI.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/controller/ProductController.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/util/ProductParser.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/model/Config.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/data/ProductRepository.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/mediator/MasterManager.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/components/HomeTitle.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/components/SubmitSearchButton.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/controller/ConfigController.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/HomeView.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/controller/ParserController.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/AutocompleteApplication.java
+/Users/ColinForage/Desktop/autocomplete/src/main/java/com/cforage/autocomplete/view/components/ViewContainer.java
